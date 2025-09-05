@@ -270,4 +270,5 @@ if __name__ == "__main__":
     elif mode == "worker":
         start_worker()
     else:
+
         print("Invalid mode. Use 'server' or 'worker'.")
